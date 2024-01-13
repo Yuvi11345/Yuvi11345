@@ -11,31 +11,14 @@
 
 ###
 
-<p align="left">✨ 📚 I'm currently learning Java, Databases, Web Development<br>🎲 fact: Tech wizard by day, puzzled by simple machines by night – that's me in a nutshell!.</p>
+<p align="left">✨ 
+🚀 Currently diving deep into Java, Web Dev and Databases, I'm all about exploring the latest trends and technologies in coding. My GitHub is a vibrant canvas where I paint my learning journey, one commit at a time.<br>
+<br>🎲: Tech wizard by day, puzzled by simple machines by night – that's me in a nutshell!.<br>📫 Reach out to me at yuvraj41511@gmail.com <br>.</p>
 
 ###
 
 <h2 align="left">I code with</h2>
-.tech-icons img {
-    height: 40px;
-    transition: transform 0.3s ease;
-}
 
-.tech-icons img:hover {
-    transform: scale(1.1);
-}
-
-body {
-    font-family: Arial, sans-serif;
-}
-
-h1, h2 {
-    color: #333;
-}
-
-p {
-    color: #666;
-}
 ###
 
 <div align="left">
