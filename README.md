@@ -11,11 +11,11 @@
 
 ###
 
-<p align="left">  🚀 Currently diving deep into <strong>Java</strong>, <strong>Web Dev</strong>, <strong>Databases</strong>,
- exploring the latest trends and technologies in coding.<br>💡 I believe in learning by doing and sharing. You'll find me contributing to open-source, participating in coding challenges, and collaborating with fellow learners.<br>🎯 My goal? To transform my passion for programming into impactful, real-world solutions.<br>
-🔥 Join me on this epic quest of bytes and sights! Together, let's push boundaries and explore new horizons
+<p align="left">  🚀 Currently diving deep into <strong>JAVA</strong>, <strong>WEB DEV</strong>, <strong>DATABASES</strong>,
+ exploring the latest trends and technologies in coding.</P><P>💡 I believe in learning by doing and sharing. You'll find me contributing to open-source, participating in coding challenges, and collaborating with fellow learners.</P>🎯<P> My goal? To transform my passion for programming into impactful, real-world solutions.</P>
+<P>🔥 Join me on this epic quest of bytes and sights! Together, let's push boundaries and explore new horizons
  🔗yuvraj41511@gmail.com
- <br></p>
+ </p>
 
 ###
 
