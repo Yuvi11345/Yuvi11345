@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Yuvraj and I'm a struggling programmer, from Canada</p>
+<p align="left"> Hi there! I'm Yuvraj - a curious computer programming enthusiast on a thrilling journey of discovery in the tech world. 🌟
+</p>
 
 ###
 
@@ -10,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ 📚 I'm currently learning Java, Databases, Web Development<br>🎲 fact: Tech wizard by day, puzzled by simple machines by night – that's me in a nutshell!.</p>
 
 ###
 
