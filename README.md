@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Hi there! I'm Yuvraj - a curious computer programming enthusiast on a thrilling journey of discovery in the tech world. 🌟
+<p align="left"> Hi there! I'm <strong>Yuvraj</strong> - a curious Computer Programming enthusiast on a thrilling journey of discovery in the tech world. 🌟
 </p>
 
 ###
