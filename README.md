@@ -13,7 +13,8 @@
 
 <p align="left">  🚀 Currently diving deep into <strong>Java</strong>, <strong>Web Dev</strong>, <strong>Databases</strong>,
  exploring the latest trends and technologies in coding.<br>💡 I believe in learning by doing and sharing. You'll find me contributing to open-source, participating in coding challenges, and collaborating with fellow learners.<br>🎯 My goal? To transform my passion for programming into impactful, real-world solutions.<br>
-📫 Reach out to me at yuvraj41511@gmail.com <br></p>
+🔥 Join me on this epic quest of bytes and sights! Together, let's push boundaries and explore new horizons
+ 🔗yuvraj41511@gmail<br></p>
 
 ###
 
