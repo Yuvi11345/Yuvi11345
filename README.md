@@ -11,8 +11,8 @@
 
 ###
 
-<p align="left"> 🚀 Currently diving deep into Java, Web Dev, Databases, exploring the latest trends and technologies in coding. My GitHub is a vibrant canvas 
-         where I paint my learning journey, one commit at a time.<br>
+<p align="left">  🚀 Currently diving deep into <strong>Java</strong>, <strong>Web Dev</strong>, <strong>Databases</strong>,</p>
+, exploring the latest trends and technologies in coding. 
 🎲: Tech wizard by day, puzzled by simple machines by night – that's me in a nutshell!.<br>📫 Reach out to me at yuvraj41511@gmail.com <br></p>
 
 ###
