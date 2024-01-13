@@ -15,7 +15,26 @@
 ###
 
 <h2 align="left">I code with</h2>
+.tech-icons img {
+    height: 40px;
+    transition: transform 0.3s ease;
+}
 
+.tech-icons img:hover {
+    transform: scale(1.1);
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
 ###
 
 <div align="left">
